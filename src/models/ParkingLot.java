@@ -1,6 +1,7 @@
 package models;
 
 import enums.ParkingLotStatus;
+import enums.SlotAllotmentStrategyType;
 
 import java.util.List;
 
